@@ -26,12 +26,12 @@
 ## Improvements
 The following improvements can be done,to the script:-
 
--Ability to save the scan results (using -o switch)
--Ability to load scanning scripts specific for a port
--Provide more verbose information on ports and the target machine 
+- Ability to save the scan results (using -o switch)
+- Ability to load scanning scripts specific for a port
+- Provide more verbose information on ports and the target machine 
 
 ## Parting Notes
 
 - I do hope that you have the same amount of fun,that I had,while coding this script!
 - This repository is open to the public,to collaborate and contribute.Get in touch with me and I would be more than happy
-- 
+
