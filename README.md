@@ -20,7 +20,7 @@
 ![Two](https://user-images.githubusercontent.com/77625109/125151846-d320fb80-e166-11eb-81b6-57c75e6674d3.jpg)
 
 ## Script Run requirements:-
-- Python3 or higher  - (apt update  ,  apt install pip ,   curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py  ,   python get-pip.py  , apt install python3)
+- Python3 or higher  - (apt update  , curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py  ,   python get-pip.py  , apt install python3)
 - Any scripting software (gedit,nano or vim)
 
 ## Improvements
