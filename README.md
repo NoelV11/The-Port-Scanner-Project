@@ -1,6 +1,6 @@
 # The-Port-Scanner-Project
 
-- This is a simple script,simulating the port scanning feature that is performed by pentesting tools such as Nmap and Gobuster.Additionally,it is a great project to for anyone wanting to start off learning Python
+- This is a simple script,simulating the port scanning feature that is performed by pentesting tools such as Fping and Threader.Additionally,it is a great project to for anyone wanting to start off learning Python
 
 
 ## Functionalities:-
