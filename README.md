@@ -33,5 +33,5 @@ The following improvements can be done,to the script:-
 ## Parting Notes
 
 - I do hope that you have the same amount of fun,that I had,while coding this script!
-- This repository is open to the public,to collaborate and contribute.Get in touch with me and I would be more than happy
+- This repository is open to the public,to collaborate and contribute.Get in touch with me and I would be more than happy.
 
